@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* 这里引用的css必须在assets文件夹下，不然会报错，比如在node_modules中引用css就会报错 */
+
+
+
+
+
+html,body {
+    height:100%;
+}
